@@ -32,25 +32,25 @@
  <div class="row pb-2">
     <div class="col-lg-3 col-md-3 col-sm-3 col-6">
         <div class="parent_div">
-            <img class="w-100" src="/images/bollywood.jpg"  alt="grid_img">
+            <img class="w-100" src="/assets/images/bollywood.jpg"  alt="grid_img">
             <h2>Download Yudhra (2024) Hindi Movie 480p | 720p | 1080p CAMRip</h2>
         </div>
     </div>
     <div class="col-lg-3 col-md-3 col-sm-3 col-6">
         <div class="parent_div">
-            <img class="w-100" src="/images/hollywood.jpg"  alt="grid_img">
+            <img class="w-100" src="/assets/images/hollywood.jpg"  alt="grid_img">
             <h2>Download The Lord of the Rings: The Rings of Power (Season 1 – 2) Dual Audio {Hindi-English} WEB Series 480p | 720p | 1080p | 2160p WEB-DL ESub [S02E06 Added]</h2>
         </div>
     </div>
     <div class="col-lg-3 col-md-3 col-sm-3 col-6">
         <div class="parent_div">
-            <img class="w-100" src="/images/punjabi.jpg"  alt="grid_img">
+            <img class="w-100" src="/assets/images/punjabi.jpg"  alt="grid_img">
             <h2>Jatt & Juliet 3 (2024) WEB-DL [Punjabi DD5.1] 4K 1080p 720p & 480p [x264/HEVC] | Full Movie</h2>
         </div>
     </div>
     <div class="col-lg-3 col-md-3 col-sm-3 col-6">
         <div class="parent_div">
-            <img class="w-100" src="/images/south.jpg"  alt="grid_img">
+            <img class="w-100" src="/assets/images/south.jpg"  alt="grid_img">
             <h2>Bhimaa (2024) UNCUT DS4K WEB-DL [Hindi (DD5.1) & Telugu] 4K 1080p 720p & 480p Dual Audio [x264/10Bit-HEVC] | Full Movie</h2>
         </div>
     </div>
@@ -58,25 +58,25 @@
  <div class="row pb-2">
   <div class="col-lg-3 col-md-3 col-sm-3 col-6">
       <div class="parent_div">
-          <img class="w-100" src="/images/Ruslaan.jpg"  alt="grid_img">
+          <img class="w-100" src="/assets/images/Ruslaan.jpg"  alt="grid_img">
           <h2>Download Ruslaan (2024) Hindi Movie 480p | 720p | 1080p WEB-DL</h2>
       </div>
   </div>
   <div class="col-lg-3 col-md-3 col-sm-3 col-6">
       <div class="parent_div">
-          <img class="w-100" src="/images/Death_phd.jpg"  alt="grid_img">
+          <img class="w-100" src="/assets/images/Death_phd.jpg"  alt="grid_img">
           <h2>Download Death PhD (2024) English Movie 480p | 720p | 1080p WEB-DL ESub</h2>
       </div>
   </div>
   <div class="col-lg-3 col-md-3 col-sm-3 col-6">
       <div class="parent_div">
-          <img class="w-100" src="/images/Kudi_Haryane.jpg"  alt="grid_img">
+          <img class="w-100" src="/assets/images/Kudi_Haryane.jpg"  alt="grid_img">
           <h2>Download Kudi Haryane Val Di (2024) Punjabi Movie 480p | 720p | 1080p WEB-DL ESub</h2>
       </div>
   </div>
   <div class="col-lg-3 col-md-3 col-sm-3 col-6">
       <div class="parent_div">
-          <img class="w-100" src="/images/Double_Ismart.jpg"  alt="grid_img">
+          <img class="w-100" src="/assets/images/Double_Ismart.jpg"  alt="grid_img">
           <h2>Download Double iSmart (2024) Dual Audio {Hindi (Clear)-Telugu} Movie 480p | 720p | 1080p WEB-DL ESube</h2>
       </div>
   </div>
@@ -84,25 +84,25 @@
 <div class="row pb-2">
   <div class="col-lg-3 col-md-3 col-sm-3 col-6">
       <div class="parent_div">
-          <img class="w-100" src="/images/Auron.jpg"  alt="grid_img">
+          <img class="w-100" src="/assets/images/Auron.jpg"  alt="grid_img">
           <h2>Download Auron Mein Kahan Dum Tha (2024) Hindi Movie 480p | 720p | 1080p | 2160p WEB-DL ESub</h2>
       </div>
   </div>
   <div class="col-lg-3 col-md-3 col-sm-3 col-6">
       <div class="parent_div">
-          <img class="w-100" src="/images/Transformers.jpg"  alt="grid_img">
+          <img class="w-100" src="/assets/images/Transformers.jpg"  alt="grid_img">
           <h2>Download Transformers One (2024) Hindi Dubbed Movie 480p | 720p | 1080p CAMRip</h2>
       </div>
   </div>
   <div class="col-lg-3 col-md-3 col-sm-3 col-6">
       <div class="parent_div">
-          <img class="w-100" src="/images/Teriya.jpg"  alt="grid_img">
+          <img class="w-100" src="/assets/images/Teriya.jpg"  alt="grid_img">
           <h2>Download Teriyaan Meriyaan Hera Pheriyan (2024) Punjabi Movie 480p | 720p | 1080p WEB-DL ESub</h2>
       </div>
   </div>
   <div class="col-lg-3 col-md-3 col-sm-3 col-6">
       <div class="parent_div">
-          <img class="w-100" src="/images/Raayan.jpg"  alt="grid_img">
+          <img class="w-100" src="/assets/images/Raayan.jpg"  alt="grid_img">
           <h2>Download Raayan (2024) Dual Audio {Hindi-Tamil} Movie 480p | 720p | 1080p | 2160p WEB-DL ESub</h2>
       </div>
   </div>
