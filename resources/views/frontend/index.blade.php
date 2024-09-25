@@ -5,7 +5,7 @@
     <section class="tabs_layout">
     <div class="container">
    <div class="tab_section pt-3 pb-3">
-    <a href="#" >18+</a>
+    <a href="{{ route('detail') }}" >18+</a>
     <a href="#" >Bollywood</a>
     <a href="#" >Dual Audio</a>
     <a href="#" >Hollywood</a>
@@ -32,8 +32,12 @@
  <div class="row pb-2">
     <div class="col-lg-3 col-md-3 col-sm-3 col-6">
         <div class="parent_div">
-            <img class="w-100" src="/assets/images/bollywood.jpg"  alt="grid_img">
-            <h2>Download Yudhra (2024) Hindi Movie 480p | 720p | 1080p CAMRip</h2>
+            <a href="{{ route('detail') }}">
+                <img class="w-100" src="/assets/images/bollywood.jpg"  alt="grid_img"></a>
+            
+                <h2><a href="{{ route('detail') }}">
+                    Download Yudhra (2024) Hindi Movie 480p | 720p | 1080p CAMRip
+                    </a></h2>
         </div>
     </div>
     <div class="col-lg-3 col-md-3 col-sm-3 col-6">

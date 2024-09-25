@@ -14,4 +14,5 @@ use App\Http\Controllers\Frontend\HomeController;
 |
 */
 
-Route::get('/',[HomeController::class,'index']);
+Route::get('/', [HomeController::class, 'index']);
+Route::get('/detail', [HomeController::class, 'detail'])->name('detail');
