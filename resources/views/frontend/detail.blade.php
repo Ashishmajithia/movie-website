@@ -13,9 +13,11 @@
 </p>
 <div class="feature_image text-center pt-4 pb-4">
 <img src="assets/images/bollywood.jpg" alt="detail_page">
-<h3 class="pt-5 pb-5">Download Yudhra (2024) Hindi Movie</h3>
+<h3 class="pt-4">Download Yudhra (2024) Hindi Movie</h3>
+<p>iMDB Rating: x/10</p>
+<p>Language: Hindi (ORG-LiNE)</p>
 </div>
-<div class="movie_detail pt-4 pb-4">
+<div class="movie_detail pt-2 pb-2">
 <h2>Movie Details :</h2>
 <ul>
 <li><strong>Full Name:</strong> Yudhra</li>
@@ -42,6 +44,37 @@
 <img class="w-100" src="assets/images/screen4.png" alt="screenshots">
 <img class="w-100" src="assets/images/screen5.png" alt="screenshots">
 <img class="w-100" src="assets/images/screen6.png" alt="screenshots">
+</div>
+
+<div class="downlaod_movie">
+    <div class="for_480p">
+    <h5 class="text-center">Yudhra (2024) Hindi 480p [980MB]</h5>
+    <div class="d-flex justify-content-center">
+        <a class="for_btn" href="#"><i class="fas fa-rocket"></i>Google Drive</a>
+        <a class="for_btn" href="#"><i class="fas fa-link"></i>Download Links</a>
+    </div>
+    </div>
+    <div class="for_720p pt-3">
+    <h5 class="text-center">Yudhra (2024) Hindi 720p [2.5GB]</h5>
+    <div class="d-flex justify-content-center">
+        <a class="for_btn" href="#"><i class="fas fa-rocket"></i>Google Drive</a>
+        <a class="for_btn" href="#"><i class="fas fa-link"></i>Download Links</a>
+    </div>
+    </div>
+    <div class="for_1080p pt-3">
+    <h5 class="text-center">Yudhra (2024) Hindi 1080p [4.1GB]</h5>
+    <div class="d-flex justify-content-center">
+        <a class="for_btn" href="#"><i class="fas fa-rocket"></i>Google Drive</a>
+        <a class="for_btn" href="#"><i class="fas fa-link"></i>Download Links</a>
+    </div>
+    </div>
+    <div class="join_telgram text-center pt-4 pb-3">
+        <a href="#"><i class="fab fa-telegram-plane"></i> Join Our Telegram Channel
+</a></div>
+</div>
+<div class="watch_trailer pt-4">
+    <h5 class="text-center pb-4">Watch Trailer</h5>
+    <iframe width="1140" height="400" src="https://www.youtube.com/embed/5SrgUF4DXeQ?si=CMFMlRLV_Tgm6hA_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 </section>

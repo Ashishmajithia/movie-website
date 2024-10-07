@@ -128,6 +128,28 @@ button.navbar-toggler {
   color: #000 !important;
   text-decoration: none !important;
 }
+.for_btn {
+  padding: 10px 15px;
+  background-color: #fff;
+  color: #000;
+  text-decoration: none;
+  margin: 10px;
+  border-radius: 10px;
+}
+.for_btn i {
+  margin-right: 5px !important;
+}
+.detail_page h5 {
+  font-size: 20px;
+  color: #fff;
+}
+.join_telgram a {
+  color: #fff;
+  text-decoration: none;
+  background-color: blue;
+  padding: 10px 15px;
+  border-radius: 10px;
+}
   @media screen and (max-width: 576px) {
     .parent_div {
       height: auto;
